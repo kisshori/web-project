@@ -12,8 +12,8 @@
     </div>
   </div>
 
-  <div class="p-4">
-    Put content here.
+    <div class="p-4">
+    <?= $content ?? '' ?>
   </div>
 </div>
 
